@@ -1,3 +1,3 @@
 # projects-trial
 
-Add info
+Add more info
